@@ -41,7 +41,7 @@ function Data() {
       <i class="fa-solid fa-film"></i>
       <h1>Movie App</h1>
       </header>
-      <input
+      <input className='input--box'
       type='text'
       placeholder="&#xf002;"
       value={searchVal}

@@ -13,14 +13,11 @@ h1 {
   font-family: 'Koulen', cursive;
 }
 
-.input-box {
+.input--box {
   text-indent: 2rem;
   font-size: 1.4rem;
   padding: 4px;
   font-family:  FontAwesome, sans-serif;
-  font-style: normal;
-  font-weight: normal;
-  text-decoration: inherit;
 }
 
 img {
